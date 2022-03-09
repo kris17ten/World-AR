@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: fef0983babb25ae4ea3b3b1a321140a7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: entrance_building_01_Circle.065
+    100002: entrance_building_02_Circle.054
+    100004: entrance_building_03_Circle.057
+    100006: entrance_building_blinds_Circle.009
+    100008: entrance_building_windows_Circle.007
+    100010: entrance_flag_Circle.006
+    100012: entrance_flag_pole_Circle.070
+    100014: entrance_post_Circle.003
+    100016: entrance_roof_2_Cube
+    100018: entrance_roof_3_Circle.001
+    100020: entrance_roof_Circle
+    100022: entrance_sign_01_Mesh.028
+    100024: entrance_sign_02_Cube.004
+    100026: entrance_speaker_Cube.001
+    100028: entrance_spotlight_Circle.002
+    100030: entrance_wall_light_Circle.013
+    100032: entrance_weine_Circle.039
+    100034: Ground_01_Plane.002
+    100036: Ground_02_Plane.003
+    100038: Ground_03_Plane.001
+    100040: //RootNode
+    400000: entrance_building_01_Circle.065
+    400002: entrance_building_02_Circle.054
+    400004: entrance_building_03_Circle.057
+    400006: entrance_building_blinds_Circle.009
+    400008: entrance_building_windows_Circle.007
+    400010: entrance_flag_Circle.006
+    400012: entrance_flag_pole_Circle.070
+    400014: entrance_post_Circle.003
+    400016: entrance_roof_2_Cube
+    400018: entrance_roof_3_Circle.001
+    400020: entrance_roof_Circle
+    400022: entrance_sign_01_Mesh.028
+    400024: entrance_sign_02_Cube.004
+    400026: entrance_speaker_Cube.001
+    400028: entrance_spotlight_Circle.002
+    400030: entrance_wall_light_Circle.013
+    400032: entrance_weine_Circle.039
+    400034: Ground_01_Plane.002
+    400036: Ground_02_Plane.003
+    400038: Ground_03_Plane.001
+    400040: //RootNode
+    2100000: entrance_post
+    2100002: Ground_02
+    2100004: Ground_01
+    2100006: Ground_03
+    2100008: entrance_building_blinds
+    2100010: entrance_building_windows
+    2100012: entrance_flag
+    2100014: entrance_sign_02
+    2100016: entrance_speaker
+    2100018: entrance_roof_3
+    2100020: entrance_roof_2
+    2100022: entrance_wall_light
+    2100024: entrance_spotlight
+    2100026: entrance_flag_pole
+    2100028: entrance_building_01
+    2100030: entrance_sign_01
+    2100032: entrance_building_03
+    2100034: entrance_building_02
+    2100036: entrance_roof_1
+    2100038: entrance_weine
+    2300000: entrance_building_01_Circle.065
+    2300002: entrance_building_02_Circle.054
+    2300004: entrance_building_03_Circle.057
+    2300006: entrance_building_blinds_Circle.009
+    2300008: entrance_building_windows_Circle.007
+    2300010: entrance_flag_Circle.006
+    2300012: entrance_flag_pole_Circle.070
+    2300014: entrance_post_Circle.003
+    2300016: entrance_roof_2_Cube
+    2300018: entrance_roof_3_Circle.001
+    2300020: entrance_roof_Circle
+    2300022: entrance_sign_01_Mesh.028
+    2300024: entrance_sign_02_Cube.004
+    2300026: entrance_speaker_Cube.001
+    2300028: entrance_spotlight_Circle.002
+    2300030: entrance_wall_light_Circle.013
+    2300032: entrance_weine_Circle.039
+    2300034: Ground_01_Plane.002
+    2300036: Ground_02_Plane.003
+    2300038: Ground_03_Plane.001
+    3300000: entrance_building_01_Circle.065
+    3300002: entrance_building_02_Circle.054
+    3300004: entrance_building_03_Circle.057
+    3300006: entrance_building_blinds_Circle.009
+    3300008: entrance_building_windows_Circle.007
+    3300010: entrance_flag_Circle.006
+    3300012: entrance_flag_pole_Circle.070
+    3300014: entrance_post_Circle.003
+    3300016: entrance_roof_2_Cube
+    3300018: entrance_roof_3_Circle.001
+    3300020: entrance_roof_Circle
+    3300022: entrance_sign_01_Mesh.028
+    3300024: entrance_sign_02_Cube.004
+    3300026: entrance_speaker_Cube.001
+    3300028: entrance_spotlight_Circle.002
+    3300030: entrance_wall_light_Circle.013
+    3300032: entrance_weine_Circle.039
+    3300034: Ground_01_Plane.002
+    3300036: Ground_02_Plane.003
+    3300038: Ground_03_Plane.001
+    4300000: entrance_post_Circle.003
+    4300002: Ground_02_Plane.003
+    4300004: Ground_01_Plane.002
+    4300006: Ground_03_Plane.001
+    4300008: entrance_building_blinds_Circle.009
+    4300010: entrance_building_windows_Circle.007
+    4300012: entrance_flag_Circle.006
+    4300014: entrance_sign_02_Cube.004
+    4300016: entrance_speaker_Cube.001
+    4300018: entrance_roof_3_Circle.001
+    4300020: entrance_roof_2_Cube
+    4300022: entrance_wall_light_Circle.013
+    4300024: entrance_spotlight_Circle.002
+    4300026: entrance_flag_pole_Circle.070
+    4300028: entrance_building_01_Circle.065
+    4300030: entrance_sign_01_Mesh.028
+    4300032: entrance_building_03_Circle.057
+    4300034: entrance_building_02_Circle.054
+    4300036: entrance_roof_Circle
+    4300038: entrance_weine_Circle.039
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
